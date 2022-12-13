@@ -1,6 +1,6 @@
 # java-raytracer
 
-This project contains an extensive series of classes that make up together a raytracing render engine that can be used to generate realistic images. It uses mathematical models and formulas from the computer graphics field of study.
+This project contains an extensive series of Java classes that make up together a raytracing render engine that can be used to generate realistic images. It uses mathematical models and formulas from the computer graphics field of study.
 
 Some of this project's features are:
 - Hard shadows,
